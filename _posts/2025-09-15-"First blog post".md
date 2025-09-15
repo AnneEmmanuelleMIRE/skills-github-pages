@@ -1,5 +1,6 @@
 ---
-title: "First blog post"
-date: 2025-09-15
+Title: "1st blog post"
+Date: 2025-09-15
 ---
-First quick draft
+## Quick draft
+---
